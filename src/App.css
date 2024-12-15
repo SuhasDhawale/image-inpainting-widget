@@ -40,3 +40,24 @@
 .read-the-docs {
   color: #888;
 }
+
+.App {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+canvas {
+  border: 1px solid #ccc;
+  margin-top: 20px;
+}
+
